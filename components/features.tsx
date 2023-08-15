@@ -1,13 +1,13 @@
 export default function Features() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6" id="features">
         <div className="py-12 md:py-20">
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">Revolutionizing Ethereum Restaking.</h2>
+            <p className="text-xl text-gray-400">Maximizing Yield and Efficiency Across Chains with RestakeX. Understand our core features.</p>
           </div>
 
           {/* Items */}
@@ -20,8 +20,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Simplified Restaking</h4>
+              <p className="text-lg text-gray-400 text-center">Streamline decisions with minimized technical overhead, offering easy access to multiple AVSs.</p>
             </div>
 
             {/* 2nd item */}
@@ -31,8 +31,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Gas Efficiency</h4>
+              <p className="text-lg text-gray-400 text-center">Reduce gas fees and transactions on the Ethereum mainnet, saving you cost and time.</p>
             </div>
 
             {/* 3rd item */}
@@ -45,8 +45,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Liquidity Boost</h4>
+              <p className="text-lg text-gray-400 text-center">Optimize your locked assets and unlock your liquidity's true potential.</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +58,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">L2 Integration</h4>
+              <p className="text-lg text-gray-400 text-center">Engage in higher yields on Ethereum L2s, restake without barriers.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +71,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">rxETH Advantage</h4>
+              <p className="text-lg text-gray-400 text-center">Deposit LSTs or native ETH, leveraging it across the DeFi universe for amplified returns.</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +85,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Cross-Chain Flexibility</h4>
+              <p className="text-lg text-gray-400 text-center">Restake seamlessly from any Ethereum L2, boosting positions on any platform.</p>
             </div>
 
           </div>
